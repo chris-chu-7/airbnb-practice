@@ -7,7 +7,7 @@ function App() {
 
     //BEM
     <div className="App">
-        <h1>Hey Clever Programmer, Let's build AIRBNB clone!🚀</h1>
+        {/*<h1>Hey Clever Programmer, Let's build AIRBNB clone!🚀</h1>*/}
         {/* Home */}
             <Header /> 
             <Home />
