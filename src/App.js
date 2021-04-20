@@ -1,13 +1,27 @@
-import logo from './logo.svg';
 import './App.css';
+import Home from './Home';
 
 function App() {
   return (
+
+    //BEM
     <div className="App">
-      return (
-        <h1>Hey Clever Programmer, Let's build AIRBNB clone!</h1>
-      );
+        <h1>Hey Clever Programmer, Let's build AIRBNB clone!🚀</h1>
+        {/* Home */}
+            <Home />
+            {/*  Header  */}
+            {/*  Banner  */}
+            {/*  Cards */} 
+            {/*  Footer  */}
+        {/* SearchPage */}
+          {/* ... */}
+
     </div>
+
+  
+
+
+
   );
 }
 
