@@ -38,6 +38,9 @@ function SearchResult({
                  </div>
           </div>
         </div>
+
+        
+
     )
 }
 
