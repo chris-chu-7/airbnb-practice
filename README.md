@@ -1,12 +1,11 @@
 # AirBnB Clone
 
 <b>💡Inspiration💡</b>
-I've always admired the AirBnB website, and desired to make a clone of it. Clever Programmer helped me greatly in this clone. 
+🌴🌇I've always admired the AirBnB website, and desired to make a clone of it. Clever Programmer helped me greatly in this clone. 🌇🌴
 
 
 <b>❓What it does❓</b>
-UniPort helps resolve this, by creating an organized, integrated plan for students based on their schedule, and gives them directions on how to meet and organize meetings with Friends.
-
+This is just a clone of the AirBnb Site, with Calendars, interactive Moving UI, Grids, and ratings of renting places. 
 
 <b>🔨How we built it🔨</b>
 I used ReactJS to Build this Application. 
